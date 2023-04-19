@@ -7,7 +7,7 @@ Hello there! My name is Margarida, and I'm a Junior Fullstack developer who is <
 ​
 
 ## 🌐 Socials:
-6
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ana-margarida-almostdev/) 
 
 ​
