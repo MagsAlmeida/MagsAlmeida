@@ -1,7 +1,10 @@
-# 💫 About Me:
+<br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-Hello there! My name is Margarida, and I'm a Junior Fullstack developer who is <br>passionate about programming. I'm excited to be starting a new path in the tech <br>industry, and I'm eager to learn more about this platform.<br>While I'm still honing my technical skills, I'm actively practicing and working on <br>personal projects to improve my abilities with Outsystems. <br>When I'm not coding, I enjoy reading books and watching movies to relax and unwind. <br>I'm always eager to connect with others and learn from their experiences. 
+This is an abstratction of me!
 
+![giphy](https://user-images.githubusercontent.com/127327024/234855279-8e87edd1-9b04-4dbb-ac6b-7034e8ba78e3.gif)
+<br>
+by https://rafaeldearaujo.tumblr.com/
 ​
 
 ​
